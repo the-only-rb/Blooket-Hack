@@ -2,6 +2,8 @@
 Cheat menu for the game ‘Blooket’ (like Kahoot.it)
 
 ## How to setup and use 
+Download and watch the Tutorial (Tutorial.MOV) or follow these steps:
+
 1. Go into the hack.js and press the 3 dots and copy
 2. Create a bookmark on your browser and name it Blooket Hack
 3. Save it and then press and hold the bookmark, after that press edit
