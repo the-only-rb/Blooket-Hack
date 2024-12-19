@@ -19,7 +19,7 @@ Download and watch the Tutorial (Tutorial.MOV) or follow these steps:
 +Open Source
 +New and updated features!
 +Free to use
-+Annoying commands (bots, crash game etc
++Annoying commands (bots, crash game etc)
 +Useful commands (set score, auto answer etc)
 +Free skins
 -0.1% Chance of getting banned (make a new account etc)
